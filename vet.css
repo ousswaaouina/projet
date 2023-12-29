@@ -1,0 +1,425 @@
+/*header*/
+#header1 {
+    color: white;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    width: 97%;
+    padding: 25px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 0 8px 10px #494545;
+    background-color:  rgb(16, 16, 58);
+}
+#header1 ul :hover {
+    color:  rgb(75, 140, 213);
+}
+#header1 ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-between;
+}
+#header1 button :hover {
+    color: black;
+}
+#header1 button {
+    color: white;
+    padding: 15px;
+    background-color: rgb(75, 140, 213);
+    border: transparent;
+    border-radius: 8px;
+    box-shadow: 0 8px 10px #494545;
+    padding-right: 25px;
+
+}
+#header1 div {
+    display: flex;
+    flex-direction: row;
+
+}
+#header1 img {
+    margin-left: 40px;
+    width: 110px;
+    height: 40px;
+}
+#header1 li {
+    margin-right: 25px;
+}
+#div2 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 97%;
+    background-color: rgb(16, 16, 58);
+    padding-right: 25px;
+    padding: 25px;
+    color: white;
+}
+#div2 h1 {
+    font-size: 65px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#div2 img {
+    padding-left: 15px;
+    width: 200px;
+    height: 200px;
+}
+#divk {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#divk p {
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#div4 {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#div4 button {
+    color: white;
+    background-color: transparent;
+    border: transparent;
+    width: 15px;
+    height: 15px;
+}
+#btnleft {
+    padding-left: 150px;
+    
+}
+#btnright {
+    padding-right: 50px;
+}
+.btnn {
+    box-shadow: 0 8px 10px #494545;
+    font-family: 'Times New Roman', Times, serif; 
+    width: 70%;
+    margin: 0 auto;
+}
+#div5 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    padding-left:25% ;
+    justify-content: space-between; 
+}
+#div5 button {
+    background-color: rgb(75, 140, 213) ;
+    margin: 50px;
+    height:60px ;
+    width: 150px;
+    border: transparent;
+    border-radius: 8px;
+    color: white;
+    box-shadow: 0 8px 10px #494545;
+    font-family: 'Times New Roman', Times, serif;
+}
+#div6 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    justify-content: center;
+    padding-left: 15px;
+}
+#div6 h1{    
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#div6 p{
+    font-weight: bolder;
+    color: rgb(28, 94, 176);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*service*/
+#services {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 13px;
+    margin-top: 60px;
+}
+
+.loufa {
+    font-weight: bolder;
+    margin-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#services ul {
+    border-color: black;
+    list-style-type: square;
+    font-size: 25px;
+    padding-bottom: 40px;
+}
+.pencore {
+    font-size: 25px;
+    color: rgb(3, 3, 98);
+    font-weight: bolder;
+}
+.prix {
+    color: rgb(124, 0, 0);
+    font-size: 25px;
+    font-weight: bolder;
+}
+#fff {
+    background-image: url(https://pub-static.fotor.com/assets/bg/bf9a415f-b758-4c0d-a820-334370772ec3.jpg);
+    row-gap: 15px;
+    width: 350px;
+    height: 720px;
+    box-shadow: 0 8px 10px #494545;
+
+}
+#ff {
+    width: 350px;
+    background-image: url(https://pub-static.fotor.com/assets/bg/bf9a415f-b758-4c0d-a820-334370772ec3.jpg);
+    height: 720px;
+    box-shadow: 0 8px 10px #494545;
+
+}
+#f {
+    width: 350px;
+    background-image: url(https://pub-static.fotor.com/assets/bg/bf9a415f-b758-4c0d-a820-334370772ec3.jpg);
+    height: 720px;
+    box-shadow: 0 8px 10px #494545;
+
+}
+.ous {
+    padding-top: 20px;
+}
+.ouss {
+    padding-top: 20px;
+}
+.ousss {
+    padding-top: 22px;
+}
+.oussli {
+    margin-bottom: 40px;
+}
+.oussslii {
+    margin-bottom: 50px;
+}
+.kkk {
+    color: rgb(124, 0, 0);
+    font-size: 30px;
+}
+.mmm{
+    font-size: 40px;
+}
+#div6 {
+    display: flex;
+    flex-direction: row;
+}
+#div6 img {
+    height: 400px;
+    width: 600px;
+    box-shadow: 0 8px 10px #494545;
+}
+/*button*/
+#dbtn button {
+    color: white;
+    background-color: rgb(75, 140, 213) ;
+    font-size: larger;
+    height: 60px;
+    width: 250px;
+    margin: 50 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: transparent;
+    border-radius: 8px;
+}
+#dbtn {
+    margin: 0 auto;
+    width: 13%;
+    padding-top: 60px;
+    padding-bottom: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*l bleu*/
+#bleu {
+    color: white;
+    width: 97%;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 8px 10px #494545;
+    background-color:  rgb(16, 16, 58);
+}
+#bleu ul {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    align-items: center;
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 10px;
+}
+#bleu h1 {
+    font-size: 60px;
+    padding-top: 100px;
+}
+#bleu h2 {
+    font-size: 35px;
+}
+#bleu p {
+    font-size: 25px;
+}
+/*partners*/
+#partners {
+    width: 97%;
+    padding: 40px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#partners ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#partners img {
+    padding-left: 70px;
+    height: 180px;
+    width: 350px;
+}
+#partners h1 {
+    color: rgb(16, 16, 58);
+    font-size: 60px;
+}
+/*qst*/
+#qst {
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(16, 16, 58) ;
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 300px;
+    padding-right: 300px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 8px 10px #494545;
+}
+#qst h1 {
+    font-size: 55px;
+}
+#qst p {
+    font-size: 30px;
+}
+#qst button {
+    color: white;
+    font-size: 30px;
+    margin-top:70px;
+    margin-left: 120px;
+    background-color:  rgb(75, 140, 213) ;
+    height: 60px;
+    width: 250px;
+    margin: 50 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: transparent;
+    border-radius: 8px;
+}
+#kkk {
+    color: white;
+    padding: 60px;
+}
+/*footer*/
+#footer {
+    width: 97%;
+    padding: 40px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    box-shadow: 0 8px 10px #494545;
+    background-color:  rgb(16, 16, 58);
+    color: white;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;    
+}
+#footer img {
+    height: 75px;
+    width: 150px;
+}
+#tswira {
+    padding-right: 150px;
+}
+.last {
+    padding-right: 150px;
+}
+.lst {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color: white;
+    list-style-type: none;
+}
+#form {
+    margin: 0 auto;
+    width: 97%;
+    padding: 40px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    box-shadow: 0 8px 10px #494545;
+    background-color:  rgb(16, 16, 58);
+    color:  rgb(75, 140, 213);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;    
+}
+#form label{
+    display: block;
+    margin-bottom: 10px;
+}
+#form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid ;
+    border-radius: 4px;
+
+
+}
+#Envoyer {
+    color: white;
+    padding: 15px;
+    background-color: rgb(75, 140, 213);
+    border: transparent;
+    border-radius: 8px;
+    box-shadow: 0 8px 10px #494545;
+
+}
+footer {
+    margin: 0 auto;
+    width: 97%;
+    padding: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    box-shadow: 0 8px 10px #494545;
+    background-color:  rgb(16, 16, 58);
+    color:  rgb(75, 140, 213);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+
+}
